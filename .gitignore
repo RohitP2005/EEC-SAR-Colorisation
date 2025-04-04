@@ -1,0 +1,43 @@
+# Python cache and environment
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+*.egg
+*.egg-info/
+dist/
+build/
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyTorch model checkpoints
+*.pt
+*.pth
+outputs/
+checkpoints/
+
+# Data and images
+dataset/
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.bmp
+*.gif
+
+# Logs and debug
+*.log
+*.out
+*.err
+
+# VS Code
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
